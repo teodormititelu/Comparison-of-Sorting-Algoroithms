@@ -2,54 +2,54 @@
 			 Vector Crescator
 
 TreeSort, Unbalanced BST: 		Aborted: Case( n^2 )
-Heapsort: 						576\579\582 ms
-QuickSort + BS: 				75\76\75 ms
+Heapsort: 				576\579\582 ms
+QuickSort + BS: 			75\76\75 ms
 QuickSort med 3 + BS:			108\104\103 ms
 Radix LSD, baza 10: 			359\405\361 ms
 Radix LSD, baza 2^4: 			259\267\266 ms
 Radix LSD, baza 2^10: 			103\103\103 ms
-STL Sort: 						61\61\60 ms
+STL Sort: 				61\61\60 ms
 
 			 Vector Descrescator
 
 TreeSort, Unbalanced BST: 		Aborted: Case( n^2 )
-Heapsort: 						555\555\556 ms
-QuickSort + BS: 				82\82\84 ms
+Heapsort: 				555\555\556 ms
+QuickSort + BS: 			82\82\84 ms
 QuickSort med 3 + BS:			113\115\111 ms
 Radix LSD, baza 10: 			358\361\370 ms
 Radix LSD, baza 2^4: 			259\261\265 ms
 Radix LSD, baza 2^10: 			103\102\104 ms
-STL Sort: 						48\48\48 ms
+STL Sort: 				48\48\48 ms
 
 			 Vector Munte
 
 TreeSort, Unbalanced BST: 		Aborted: Case( n^2 )
-Heapsort: 						586\588\587 ms
-QuickSort + BS: 				135\137\136 ms
+Heapsort: 				586\588\587 ms
+QuickSort + BS: 			135\137\136 ms
 QuickSort med 3 + BS:			166\166\164 ms
 Radix LSD, baza 10: 			400\362\405 ms
 Radix LSD, baza 2^4: 			266\263\258 ms
 Radix LSD, baza 2^10: 			103\104\103 ms
-STL Sort: 						228\220\225 ms
+STL Sort: 				228\220\225 ms
 
 			 Vector Aleator
 
 TreeSort, Unbalanced BST: 		676\660\654 ms
-Heapsort: 						651\652\651 ms
-QuickSort + BS: 				201\203\205 ms
+Heapsort: 				651\652\651 ms
+QuickSort + BS: 			201\203\205 ms
 QuickSort med 3 + BS:			235\235\235 ms
 Radix LSD, baza 10: 			388\383\390 ms
 Radix LSD, baza 2^4: 			255\247\246 ms
 Radix LSD, baza 2^10: 			132\129\133 ms
-STL Sort: 						166\164\164 ms
+STL Sort: 				166\164\164 ms
 
 			 Permutare
 
 TreeSort, Unbalanced BST: 		628\639\651 ms
-Heapsort: 						639\649\642 ms
-QuickSort + BS: 				195\195\191 ms
+Heapsort: 				639\649\642 ms
+QuickSort + BS: 			195\195\191 ms
 QuickSort med 3 + BS:			229\224\225 ms
 Radix LSD, baza 10: 			270\271\270 ms
 Radix LSD, baza 2^4: 			155\155\155 ms
 Radix LSD, baza 2^10: 			66\67\70 ms
-STL Sort: 						160\159\158 ms
+STL Sort: 				160\159\158 ms
